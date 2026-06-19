@@ -1,4 +1,3 @@
-# apaga aqui Leandro
 # Microsoft 365 Copilot - Estudos e Atividades Práticas
 
 Este repositório reúne minhas anotações, exercícios e atividades práticas realizadas durante os cursos da Microsoft Learn relacionados ao **Microsoft 365 Copilot**.
