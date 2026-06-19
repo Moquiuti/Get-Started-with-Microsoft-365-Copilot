@@ -1,30 +1,31 @@
-# Microsoft 365 Copilot - Estudos e Atividades Pr·ticas
+# apaga aqui Leandro
+# Microsoft 365 Copilot - Estudos e Atividades Pr√°ticas
 
-Este repositÛrio re˙ne minhas anotaÁıes, exercÌcios e atividades pr·ticas realizadas durante os cursos da Microsoft Learn relacionados ao **Microsoft 365 Copilot**.
+Este reposit√≥rio re√∫ne minhas anota√ß√µes, exerc√≠cios e atividades pr√°ticas realizadas durante os cursos da Microsoft Learn relacionados ao **Microsoft 365 Copilot**.
 
-O objetivo deste material È documentar minha evoluÁ„o no uso do Copilot aplicado a cen·rios reais de produtividade, an·lise de informaÁıes, resumo de documentos, organizaÁ„o de reuniıes, acompanhamento de e-mails e apoio ‡ tomada de decis„o no ambiente corporativo.
+O objetivo deste material √© documentar minha evolu√ß√£o no uso do Copilot aplicado a cen√°rios reais de produtividade, an√°lise de informa√ß√µes, resumo de documentos, organiza√ß√£o de reuni√µes, acompanhamento de e-mails e apoio √† tomada de decis√£o no ambiente corporativo.
 
-## Objetivo do repositÛrio
+## Objetivo do reposit√≥rio
 
-Centralizar os estudos realizados na trilha de Microsoft 365 Copilot, organizando os conte˙dos por curso, mÛdulo e exercÌcio.
+Centralizar os estudos realizados na trilha de Microsoft 365 Copilot, organizando os conte√∫dos por curso, m√≥dulo e exerc√≠cio.
 
-AlÈm de registrar os prompts utilizados, este repositÛrio tambÈm busca demonstrar como a IA pode ser aplicada de forma pr·tica e respons·vel em tarefas comuns do dia a dia profissional.
+Al√©m de registrar os prompts utilizados, este reposit√≥rio tamb√©m busca demonstrar como a IA pode ser aplicada de forma pr√°tica e respons√°vel em tarefas comuns do dia a dia profissional.
 
-## Conte˙dos abordados
+## Conte√∫dos abordados
 
-Entre os principais temas estudados est„o:
+Entre os principais temas estudados est√£o:
 
-* IntroduÁ„o ao Microsoft 365 Copilot;
+* Introdu√ß√£o ao Microsoft 365 Copilot;
 * Uso de prompts bem estruturados;
-* Resumo de apresentaÁıes no PowerPoint;
-* An·lise de tendÍncias no Excel;
-* IdentificaÁ„o de decisıes e itens de aÁ„o em reuniıes do Teams;
-* OrganizaÁ„o e resumo de e-mails no Outlook;
-* ConsolidaÁ„o de informaÁıes a partir de m˙ltiplas fontes;
-* Uso respons·vel de IA;
-* Boas pr·ticas de privacidade e seguranÁa da informaÁ„o.
+* Resumo de apresenta√ß√µes no PowerPoint;
+* An√°lise de tend√™ncias no Excel;
+* Identifica√ß√£o de decis√µes e itens de a√ß√£o em reuni√µes do Teams;
+* Organiza√ß√£o e resumo de e-mails no Outlook;
+* Consolida√ß√£o de informa√ß√µes a partir de m√∫ltiplas fontes;
+* Uso respons√°vel de IA;
+* Boas pr√°ticas de privacidade e seguran√ßa da informa√ß√£o.
 
-## Estrutura do repositÛrio
+## Estrutura do reposit√≥rio
 
 ```text
 microsoft-365-copilot-course/
@@ -42,20 +43,20 @@ microsoft-365-copilot-course/
         ??? anotacoes.md
 ```
 
-## OrganizaÁ„o dos exercÌcios
+## Organiza√ß√£o dos exerc√≠cios
 
-Cada exercÌcio possui, sempre que aplic·vel:
+Cada exerc√≠cio possui, sempre que aplic√°vel:
 
 * `README.md` com o objetivo da atividade;
 * `prompt-utilizado.md` com o prompt criado para o Copilot;
 * `resposta-final.md` com o resultado esperado ou resumo gerado;
-* arquivos de apoio anonimizados, quando necess·rios.
+* arquivos de apoio anonimizados, quando necess√°rios.
 
 ## Cuidados com privacidade
 
-Algumas atividades utilizam cen·rios baseados em situaÁıes profissionais reais. Quando isso acontece, os dados s„o tratados de forma anonimizada.
+Algumas atividades utilizam cen√°rios baseados em situa√ß√µes profissionais reais. Quando isso acontece, os dados s√£o tratados de forma anonimizada.
 
-Foram removidos ou substituÌdos:
+Foram removidos ou substitu√≠dos:
 
 * nomes de clientes;
 * nomes de empresas;
@@ -63,10 +64,10 @@ Foram removidos ou substituÌdos:
 * e-mails;
 * links internos;
 * ambientes reais;
-* informaÁıes sensÌveis;
+* informa√ß√µes sens√≠veis;
 * dados que possam identificar pessoas, clientes ou projetos reais.
 
-O objetivo È preservar a confidencialidade e seguir boas pr·ticas relacionadas ‡ privacidade e ‡ LGPD.
+O objetivo √© preservar a confidencialidade e seguir boas pr√°ticas relacionadas √† privacidade e √† LGPD.
 
 ## Aprendizados principais
 
@@ -75,11 +76,11 @@ Durante os estudos, um dos principais aprendizados foi que o Microsoft 365 Copil
 Um bom prompt deve deixar claro:
 
 * o objetivo da tarefa;
-* o contexto da solicitaÁ„o;
-* a fonte de informaÁ„o que deve ser usada;
+* o contexto da solicita√ß√£o;
+* a fonte de informa√ß√£o que deve ser usada;
 * o formato esperado da resposta.
 
-Essa abordagem torna as respostas mais ˙teis, reduz ambiguidades e aproxima o resultado das necessidades reais do usu·rio.
+Essa abordagem torna as respostas mais √∫teis, reduz ambiguidades e aproxima o resultado das necessidades reais do usu√°rio.
 
 ## Tecnologias e ferramentas relacionadas
 
@@ -93,6 +94,6 @@ Essa abordagem torna as respostas mais ˙teis, reduz ambiguidades e aproxima o re
 * Git e GitHub;
 * Markdown.
 
-## ObservaÁ„o
+## Observa√ß√£o
 
-Este repositÛrio tem finalidade educacional e profissional. Os materiais aqui documentados fazem parte do meu processo de aprendizado e pr·tica com ferramentas de InteligÍncia Artificial aplicadas ‡ produtividade corporativa.
+Este reposit√≥rio tem finalidade educacional e profissional. Os materiais aqui documentados fazem parte do meu processo de aprendizado e pr√°tica com ferramentas de Intelig√™ncia Artificial aplicadas √† produtividade corporativa.
